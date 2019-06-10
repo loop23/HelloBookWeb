@@ -1,8 +1,16 @@
+# HelloBookWeb
+
+E' un tentativo di usare Vapor per creare una api restful per le risorse di TheFactory
+
+In pratica e' un mashup di [Questo](https://github.com/johann/vapor-3-postgres-tutorial) e
+[Quest'altro](https://github.com/ShengHuaWu/Vapor3Series/tree/master/CRUDControllers) ma partendo dal template web
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1342803/43869499-ce6ce122-9b40-11e8-8894-e0c48eabf270.png" width="320" alt="Web Template">
     <br>
     <br>
-    <a href="http://docs.vapor.codes/3.0/">
+<!--
+  <a href="http://docs.vapor.codes/3.0/">
         <img src="http://img.shields.io/badge/read_the-docs-2196f3.svg" alt="Documentation">
     </a>
     <a href="https://discord.gg/vapor">
@@ -14,6 +22,7 @@
     <a href="https://circleci.com/gh/vapor/web-template">
         <img src="https://circleci.com/gh/vapor/web-template.svg?style=shield" alt="Continuous Integration">
     </a>
+    -->
     <a href="https://swift.org">
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
